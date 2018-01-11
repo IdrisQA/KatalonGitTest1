@@ -4,7 +4,7 @@
    <name>TestSuiteGit</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <lastRun>2018-01-11T16:11:22</lastRun>
+   <lastRun>2018-01-11T17:06:53</lastRun>
    <mailRecipient></mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>

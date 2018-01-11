@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestSuiteGit" time="32" tests="1" failures="0" errors="0">
+   <testsuite name="TestSuiteGit" tests="1" failures="0" errors="0" time="32" timestamp="2018-01-11 16:11:34" hostname="Mumeen - DESKTOP-RNU9SNV" id="Test Suites/TestSuiteGit">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Mumeen\\git\\KatalonGitTest1\\Reports\\TestSuiteGit\\20180111_161122"/>
+         <property name="logFiles" value="C:\\Users\\Mumeen\\git\\KatalonGitTest1\\Reports\\TestSuiteGit\\20180111_161122\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="Mumeen - DESKTOP-RNU9SNV"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+         <property name="browser" value="Chrome 63.0.3239.132"/>
+         <property name="hostAddress" value="192.168.1.6"/>
+         <property name="sessionId" value="66fe3f1bff956c5cca400edb449c9f00"/>
+         <property name="seleniumVersion" value="3.7.1"/>
+         <property name="proxyInformation" value="ProxyInformation{proxyOption=NO_PROXY, proxyServerType=HTTP, password=, proxyServerAddress=, proxyServerPort=0}"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test1 by Tom" classname="Test Cases/Test1 by Tom" status="PASSED">
+         <system-out><![CDATA[2018-01-11 16:11:36 - [TEST_CASE][PASSED] - Test Cases/Test1 by Tom: Test Cases/Test1 by Tom
+
+2018-01-11 16:11:38 - [TEST_STEP][PASSED] - openBrowser: Browser is opened with url: 'http://lifecharger.org/'
+
+2018-01-11 16:12:05 - [MESSAGE][PASSED] - Browser is opened with url: 'http://lifecharger.org/'
+
+2018-01-11 16:12:05 - [TEST_STEP][PASSED] - verifyTextPresent: Text 'One Act of Kindness Each Day' is present on page 
+
+2018-01-11 16:12:06 - [MESSAGE][PASSED] - Text 'One Act of Kindness Each Day' is present on page 
+
+2018-01-11 16:12:06 - [TEST_STEP][PASSED] - closeBrowser: Browser is closed
+
+2018-01-11 16:12:06 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2018-01-11 16:11:34 - [TEST_SUITE][PASSED] - TestSuiteGit: Test Cases/Test1 by Tom]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
