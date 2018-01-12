@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuiteGit,Chrome 63.0.3239.132,,2018-01-12 14:08:17,2018-01-12 14:08:47,30.827s,PASSED
+,,,,,,
+Test Cases/Test1 by Tom,Chrome 63.0.3239.132,,2018-01-12 14:08:17,2018-01-12 14:08:38,20.813s,PASSED
+openBrowser,Chrome 63.0.3239.132,,2018-01-12 14:08:18,2018-01-12 14:08:37,18.547s,PASSED
+verifyTextPresent,Chrome 63.0.3239.132,,2018-01-12 14:08:37,2018-01-12 14:08:37,0.480s,PASSED
+closeBrowser,Chrome 63.0.3239.132,,2018-01-12 14:08:37,2018-01-12 14:08:38,0.737s,PASSED
+,,,,,,
+Test Cases/Test2 by Tom,Chrome 63.0.3239.132,,2018-01-12 14:08:38,2018-01-12 14:08:47,9.425s,PASSED
+openBrowser,Chrome 63.0.3239.132,,2018-01-12 14:08:38,2018-01-12 14:08:47,8.503s,PASSED
+closeBrowser,Chrome 63.0.3239.132,,2018-01-12 14:08:47,2018-01-12 14:08:47,0.608s,PASSED
