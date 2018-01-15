@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Tom Test Suite" time="0" tests="0" failures="0" errors="0">
+   <testsuite name="Tom Test Suite" tests="0" failures="0" errors="0" time="0" timestamp="2018-01-15 09:24:54" hostname="DESKTOP-RNU9SNV$ - DESKTOP-RNU9SNV" id="Test Suites/Tom Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\Mumeen\\git\\KatalonGitTest1\\Reports\\Tom Test Suite\\20180115_092448"/>
+         <property name="logFiles" value="C:\\Users\\Mumeen\\git\\KatalonGitTest1\\Reports\\Tom Test Suite\\20180115_092448\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="DESKTOP-RNU9SNV$ - DESKTOP-RNU9SNV"/>
+         <property name="hostAddress" value="192.168.1.4"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="5.2.0.1"/>
+      </properties>
+      <system-out><![CDATA[2018-01-15 09:24:54 - [TEST_SUITE][INCOMPLETE] - Tom Test Suite: null]]></system-out>
+      <system-err><![CDATA[2018-01-15 09:24:54 - [TEST_SUITE][INCOMPLETE] - Tom Test Suite: null]]></system-err>
+   </testsuite>
+</testsuites>
